@@ -1,0 +1,23 @@
+.darkColor,
+.lightColor {
+    width: 100%;
+    height: 150px;
+    padding: 25px;
+    cursor: pointer;
+}
+
+.lightColor {
+    color: #fff;
+}
+
+.colorWeight{
+    margin-bottom: 5px;
+    font-size: .9rem;
+}
+
+.alert{
+    text-transform: uppercase;
+    font-size: .8rem;
+    margin-top: 10px;
+    color: #617d98;
+}
